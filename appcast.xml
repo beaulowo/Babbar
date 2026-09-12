@@ -3,15 +3,15 @@
     <channel>
         <title>Babbar</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Sun, 02 Aug 2026 04:04:40 +0900</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Sat, 12 Sep 2026 10:49:20 +0900</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Check for Babbar updates automatically at launch
+            <description sparkle:format="markdown"><![CDATA[- 기숙사 식단에 한식 제목 표시 (학생·교직원 식당은 생략)
 ]]></description>
-            <enclosure url="https://github.com/beaulowo/Babbar/releases/download/v0.1.8/Babbar-0.1.8-macos26.dmg" length="1437803" type="application/octet-stream" sparkle:edSignature="NWTJW/ldvwUcGP3P9cJK7Va9zrAJ2vSIN4IOHq+OZRTPBOWLIi812lmaqwNiERGn3ouIG/ZgSdW/3weS/ummBQ=="/>
+            <enclosure url="https://github.com/beaulowo/Babbar/releases/download/v0.1.9/Babbar-0.1.9-macos26.dmg" length="1435369" type="application/octet-stream" sparkle:edSignature="Ast0dGypthHXHm7ctw8fz2mGzKu8/m934tJIG1SgwuyGNFSlY1pok7rSogcFQG1MJVx7dG2azY9Rp/w9dM9RBA=="/>
         </item>
     </channel>
 </rss>
