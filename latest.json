@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "버그 수정\nWindows 지원 추가",
+  "pub_date": "2026-11-05T13:02:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUXBHK1h2QzdKbm5ZVEI3VldGOTlaLzhIbVVGQUZYeU81djJaeVpKRW9pbGJCbjByQ0h0ZHZKbjdhRHIxM3plcU9SYTkxRkE1WHNlaUczQ050WjVGZUNsVU5NMC9OSmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgzNzMyCWZpbGU6QmFiYmFyLTAuMi4wLXdpbmRvd3MteDY0LXNldHVwLmV4ZQprOFYzVWFJc3luWjZFZytvWnpkTDBqKzB3S2wyRXlMbmhDL3d0OFEwWnlvRlYxU3oxekUvOUMzL0dGaXRxSjg4RGZPbzJHRGJLblJpN0VBeG5GOENCdz09Cg==",
+      "url": "https://github.com/beaulowo/Babbar/releases/download/v0.2.0/Babbar-0.2.0-windows-x64-setup.exe"
+    }
+  }
+}
