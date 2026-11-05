@@ -10,7 +10,7 @@
     <th width="50%">Windows</th>
   </tr>
   <tr>
-    <td valign="top"><a href="assets/screenshot.jpeg"><img src="assets/screenshot.jpeg" alt="Babbar macOS 메뉴바 식단표" width="100%"></a></td>
+    <td valign="top"><a href="assets/screenshot-macos.png"><img src="assets/screenshot-macos.png" alt="Babbar macOS 메뉴바 식단표" width="100%"></a></td>
     <td valign="top"><a href="assets/screenshot-windows.png"><img src="assets/screenshot-windows.png" alt="Babbar Windows 작업 표시줄 식단표" width="100%"></a></td>
   </tr>
 </table>
