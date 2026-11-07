@@ -31,8 +31,7 @@
 
 <a href="https://apps.microsoft.com/detail/9NG9HX7J8JCT?mode=direct"><img src="https://get.microsoft.com/images/ko%20dark.svg" alt="Microsoft Store에서 받기" width="200"></a>
 
-- Microsoft Store에서 설치하는 것을 권장합니다. 업데이트도 Microsoft Store가 자동으로 설치합니다.
-- Microsoft Store를 쓸 수 없다면 [Releases](https://github.com/beaulowo/Babbar/releases/latest)에서 `windows-x64-setup.exe` 파일을 받아 실행하세요. "Windows의 PC 보호" 창이 나타나면 추가 정보 - 실행을 누르면 됩니다.
+- Microsoft Store에서 설치하는 것을 권장. 업데이트도 Microsoft Store가 자동으로 설치
 
 ## 사용
 
