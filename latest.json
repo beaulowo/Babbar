@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "버그 수정",
-  "pub_date": "2026-11-05T15:05:03Z",
+  "version": "0.2.2",
+  "notes": "새 식판 아이콘과 트레이 아이콘 적용",
+  "pub_date": "2026-11-07T02:26:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUXBHK1h2QzdKbnJjcDF3QnNrc2ZXWWRRdWJCVXRKS0xtUUJCaHdLaUdLaDR4L3Bqd2dhZEd5T1ZrY0M0ckZ1Qmd5cEVyYUlyazZHMmp2NitIRVAwWFAwM216RUtBYUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODkxMTAzCWZpbGU6QmFiYmFyLTAuMi4xLXdpbmRvd3MteDY0LXNldHVwLmV4ZQo5RW1oNWVITG5VbE5DdHVNRTV4OExBVXJxQzlGSFYrUjVJT2J2TU1iUmZCWVhsS0NodG5CNitWTzBwWVpXcHZBcEVaSjJNeGEwYStpVkd2c0F1eWNEdz09Cg==",
-      "url": "https://github.com/beaulowo/Babbar/releases/download/v0.2.1/Babbar-0.2.1-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUXBHK1h2QzdKbmdzRFk4bU96UkRFcVVSR1Y4MnAyZWxTbXBucy83TXJST1JxTmVJK1NSa1IrSjlDakMxUC9zTG1va2wvS2gwYlNNMDFiR1pqUzJlV2RyWFRha0lsUWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE4NDAxCWZpbGU6QmFiYmFyLTAuMi4yLXdpbmRvd3MteDY0LXNldHVwLmV4ZQo0TURFSHkyN3hhdldrbHhkVXpWT1QzUmUvb1F6c3lONXZ3Ym9Ya1YwMG9qZHRYRkxXYWo4d2FQdGdZV3NLc2JyRHRTbnBkdVpZQ3oyWWtSNUlodVRDQT09Cg==",
+      "url": "https://github.com/beaulowo/Babbar/releases/download/v0.2.2/Babbar-0.2.2-windows-x64-setup.exe"
     }
   }
 }
