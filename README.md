@@ -33,7 +33,6 @@
 
 - Microsoft Store에서 설치하는 것을 권장합니다. 업데이트도 Microsoft Store가 자동으로 설치합니다.
 - Microsoft Store를 쓸 수 없다면 [Releases](https://github.com/beaulowo/Babbar/releases/latest)에서 `windows-x64-setup.exe` 파일을 받아 실행하세요. "Windows의 PC 보호" 창이 나타나면 추가 정보 - 실행을 누르면 됩니다.
-- 두 방식을 함께 설치하면 작업 표시줄에 아이콘이 두 개 생깁니다. exe로 설치한 앱을 지운 뒤 Microsoft Store 버전을 설치하세요.
 
 ## 사용
 
