@@ -4,16 +4,15 @@
         <title>Babbar</title>
         <item>
             <title>0.2.2</title>
-            <pubDate>Sat, 07 Nov 2026 11:22:14 +0900</pubDate>
-            <sparkle:version>13</sparkle:version>
+            <pubDate>Sat, 07 Nov 2026 15:59:51 +0900</pubDate>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- 새 식판 아이콘 적용
-- macOS 메뉴 막대 및 Windows 트레이 아이콘 변경
-- 웹 남색 테마 적용
+            <description sparkle:format="markdown"><![CDATA[- 새 메뉴 책자 아이콘 적용
+- 메뉴 막대 아이콘이 화면 밝기에 맞춰 표시되도록 변경
 ]]></description>
-            <enclosure url="https://github.com/beaulowo/Babbar/releases/download/v0.2.2/Babbar-0.2.2-macos26.dmg" length="1453184" type="application/octet-stream" sparkle:edSignature="KLgZV7EG9UV0oRT079J1XOu6qGDUXExIsvLhGD3pisC8rkxNp3SAsq08ks4/nTYDw4weTQYenr3hJJaXZJOnAg=="/>
+            <enclosure url="https://github.com/beaulowo/Babbar/releases/download/v0.2.2/Babbar-0.2.2-macos26.dmg" length="1444680" type="application/octet-stream" sparkle:edSignature="3IPfm/pSnxZ0CuW3rERN3NIY9nXZ4BCkGg4yfevLpVHc3JBMC832AZ/X9Sr1P99/7uIYnSR294CM8GqueJB9Ag=="/>
         </item>
     </channel>
 </rss>
